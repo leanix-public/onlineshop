@@ -1,0 +1,12 @@
+id: pricing-service
+name: pricing-service
+description: Pricing Service
+self: https://github.com/leanix/cicd-connector-v2/blob/main/lx-manifest.yml
+owner: my.owner@leanix.net
+teams:
+  - cider
+products:
+  - leanix-vsm
+links:
+  - name: vcs
+    url: https://github.com/leanix/cicd-connector-v2
