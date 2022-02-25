@@ -1,0 +1,9 @@
+id: payment-service
+name: payment-service
+description: Payment Service
+self: https://github.com/leanix-public/onlineshop/blob/main/payment-service/lx-manifest.yaml
+owner: my.owner@leanix.net
+teams:
+  - cider
+products:
+  - leanix-vsm
