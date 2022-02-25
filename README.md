@@ -5,7 +5,7 @@ This is a sample monorepository to illustrate the mechanics of the VSM GitHub in
 ## Structure of this repository
 
 ```
-services
+onlineshop
     ├── payment-service
     │   ├── lx-manifest.yaml
     │   └── src
