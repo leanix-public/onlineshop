@@ -12,7 +12,7 @@
 # This should make it easy to add new rules without breaking existing ones.
 
 # Global rule:
-* @product-operations
+* @leanix-public/product-operations
 
 # C# samples:
 /py/**  @vg-leanix
